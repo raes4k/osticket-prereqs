@@ -29,7 +29,7 @@ Before installing any files, Internet Information Services (IIS) needs to be ena
 <br />
 
 <p>
-<img src="https://i.imgur.com/RB5YByC.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/lVxoaOM.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
 After enabling IIS, download and install PHP Manager for IIS (PHPManagerforIIS_V1.5.0.msi) from the installtion files folder. Download and install the Rewrite Module (rewrite_amd64_en-US.msi) after installing PHP Manager for IIS.
