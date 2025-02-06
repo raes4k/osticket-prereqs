@@ -96,7 +96,7 @@ Within the IIS console, browse to Sites -> Default -> osTicket. Click "Browse *:
 <br />
 
 <p>
-<img src="https://i.imgur.com/CdkPTsv.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/jJAFOCi.png" height="80%" width="80%" alt="Installation Steps"/>
 <img src="https://i.imgur.com/5ggnkk9.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
