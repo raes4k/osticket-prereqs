@@ -86,7 +86,7 @@ From the installation files, download osTicket v1.15.8. Extract and copy the "up
 <br />
 
 <p>
-<img src="https://i.imgur.com/s856Cpz.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/xnf61aw.png" height="80%" width="80%" alt="Installation Steps"/>
 <img src="https://i.imgur.com/pNkLVo6.png" height="80%" width="80%" alt="Installation Steps"/>
 <img src="https://i.imgur.com/Mpq7ybU.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
