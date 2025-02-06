@@ -45,7 +45,7 @@ After installing the Rewrite Module, create a new folder/directory called C:\PHP
 <br />
 
 <p>
-<img src="https://i.imgur.com/mYKZExi.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/6OHW6Ei.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
 Next, download and install VC_redist.x86.exe from the installation files.
