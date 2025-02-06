@@ -105,7 +105,7 @@ Before continuing to install osTicket, a file needs to be renamed as well as hav
 <br />
 
 <p>
-<img src="https://i.imgur.com/zExrqYG.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/MvAh6nn.png" height="80%" width="80%" alt="Installation Steps"/>
 <img src="https://i.imgur.com/PiJMYZ6.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
