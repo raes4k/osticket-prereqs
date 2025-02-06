@@ -122,7 +122,7 @@ Within osTicket browser window, enter the necessary details to set up osTicket. 
 <br />
 
 <p>
-<img src="https://i.imgur.com/3nczMAD.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/TAWCWTN.png" height="80%" width="80%" alt="Installation Steps"/>
 <img src="https://i.imgur.com/7V2YmH6.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
